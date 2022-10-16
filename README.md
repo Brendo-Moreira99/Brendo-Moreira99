@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Brendo 👋
 
-Sou estudante de Engenharia Mecânica e um amante da área de programação.  
+Sou estudante de Engenharia Mecânica e um amante da área de tecnologia.  
 
 ![Brendo Moreira GitHub stats](https://github-readme-stats.vercel.app/api?username=Brendo-Moreira99&show_icons=true&theme=onedark)
 
